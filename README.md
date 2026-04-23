@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <b>[ <a href="#fnmap---wrapper-veloce-per-nmap">Versione Italiana 🇮🇹</a> ]</b>
+  <b>[ <a href="#it">Versione Italiana 🇮🇹</a> ]</b>
 </p>
 
 `fnmap` is a powerful Python-based CLI wrapper for `nmap` designed to streamline and speed up the scanning process. It eliminates repetitive typing by automating output organization and providing pre-configured modes for common penetration testing scenarios.
@@ -54,7 +54,7 @@ curl https://raw.githubusercontent.com/HH-Tips/fnmap/refs/heads/main/setup.sh | 
 
 ---
 
-# 🇮🇹 fnmap - Wrapper veloce per Nmap
+# <a name="it"></a>🇮🇹 fnmap - Wrapper veloce per Nmap
 
 `fnmap` è un wrapper CLI in Python per `nmap` progettato per semplificare e velocizzare il processo di scansione. Organizza automaticamente i file di output e include modalità preconfigurate per i comuni scenari di penetration testing.
 
